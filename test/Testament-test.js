@@ -34,5 +34,8 @@ describe ('Deployment', function () {
   });
 });
 }
-
 //Function
+
+/*An unexpected error occurred:
+
+TypeError: Suite "Testament Contract" was defined but no callback was supplied. Supply a callback or explicitly skip the suite.*/
